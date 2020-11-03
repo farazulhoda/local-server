@@ -1,0 +1,24 @@
+{
+  "name": "local-server",
+  "version": "1.0.0",
+  "description": "Establishing local server USING NODE.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farazul/local-server.git"
+  },
+  "keywords": [
+    "npm",
+    "node-js",
+    "local-server"
+  ],
+  "author": "Farazul Hoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farazul/local-server/issues"
+  },
+  "homepage": "https://github.com/farazul/local-server#readme"
+}
