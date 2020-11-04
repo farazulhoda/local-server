@@ -7,10 +7,10 @@ Establishing local server USING NODE.js
 
 How to Use:
 #Generate self-signed certificate, follow this command:
-$openssl genrsa -out key.pem
-$openssl req -new -key key.pem -out csr.pem
-$openssl x509 -req -days 9999 -in csr.pem -signkey key.pem -out cert.pem
-$rm csr.pem
+$openssl genrsa -out key.pem \n
+$openssl req -new -key key.pem -out csr.pem \n
+$openssl x509 -req -days 9999 -in csr.pem -signkey key.pem -out cert.pem \n
+$rm csr.pem \n
 
 >> For Linux/Unix
 Install npm
