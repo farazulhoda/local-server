@@ -20,8 +20,11 @@ How to Use:
 Install npm
 
 >> run command "node main.js"
+
 >> curl -k https://localhost:8000
+
 >> open preferred browser
+
 >> see the server running on preferred port.
 
 
